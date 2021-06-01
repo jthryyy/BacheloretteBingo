@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BacheloretteBingo/static/css/main.a8e7d303.chunk.css",
+    "main.js": "/BacheloretteBingo/static/js/main.0a7080a5.chunk.js",
+    "main.js.map": "/BacheloretteBingo/static/js/main.0a7080a5.chunk.js.map",
+    "runtime-main.js": "/BacheloretteBingo/static/js/runtime-main.0364afe2.js",
+    "runtime-main.js.map": "/BacheloretteBingo/static/js/runtime-main.0364afe2.js.map",
+    "static/js/2.488ca403.chunk.js": "/BacheloretteBingo/static/js/2.488ca403.chunk.js",
+    "static/js/2.488ca403.chunk.js.map": "/BacheloretteBingo/static/js/2.488ca403.chunk.js.map",
+    "static/js/3.7c47749f.chunk.js": "/BacheloretteBingo/static/js/3.7c47749f.chunk.js",
+    "static/js/3.7c47749f.chunk.js.map": "/BacheloretteBingo/static/js/3.7c47749f.chunk.js.map",
+    "index.html": "/BacheloretteBingo/index.html",
+    "static/css/main.a8e7d303.chunk.css.map": "/BacheloretteBingo/static/css/main.a8e7d303.chunk.css.map",
+    "static/js/2.488ca403.chunk.js.LICENSE.txt": "/BacheloretteBingo/static/js/2.488ca403.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0364afe2.js",
+    "static/js/2.488ca403.chunk.js",
+    "static/css/main.a8e7d303.chunk.css",
+    "static/js/main.0a7080a5.chunk.js"
+  ]
+}
